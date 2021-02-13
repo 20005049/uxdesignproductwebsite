@@ -17,12 +17,28 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
+![output](./static/img/layout1.jpeg)
 
+![output](./static/img/layout2.jpeg)
+
+![output](./static/img/layout3.jpeg)
+
+![output](./static/img/layout4.jpeg)
 
 ## WIREFRAME:
 
+![output](./static/img/wire.jpeg)
 
 ## PROTOTYPE:
 
+![output](./static/img/our1.jpeg)
+
+![output](./static/img/our2.jpeg)
+
+![output](./static/img/our3.jpeg)
+
+![output](./static/img/our4.jpeg)
 
 ## RESULT:
+
+ Thus, a uxdesignproduct website is design and wireframe for a product development company website.
