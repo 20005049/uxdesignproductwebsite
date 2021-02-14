@@ -17,27 +17,26 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-![output](./static/img/layout1.jpeg)
+![output](./static/img/h.png)
 
-![output](./static/img/layout2.jpeg)
+![output](./static/img/p.png)
 
-![output](./static/img/layout3.jpeg)
-
-![output](./static/img/layout4.jpeg)
+![output](./static/img/pp.png)
+![output](./static/img/c.png)
 
 ## WIREFRAME:
 
-![output](./static/img/wire.jpeg)
+![output](./static/img/wire.png)
 
 ## PROTOTYPE:
 
-![output](./static/img/our1.jpeg)
+![output](./static/img/lc.png)
 
-![output](./static/img/our2.jpeg)
+![output](./static/img/lp.png)
 
-![output](./static/img/our3.jpeg)
+![output](./static/img/lpp.png)
 
-![output](./static/img/our4.jpeg)
+![output](./static/img/lc.png)
 
 ## RESULT:
 
